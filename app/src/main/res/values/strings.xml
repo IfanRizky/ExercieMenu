@@ -1,3 +1,92 @@
 <resources>
-    <string name="app_name">ExercieMenu</string>
+    <string name="app_name">Exercie Menu</string>
+    <string name="judul1">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="btnSign">SIGN-IN</string>
+
+    <string name="judul2">Menu Hitung Bangun Datar</string>
+    <string name="menuPersegi">Menghitung Persegi</string>
+
+    <string name="luasPersegi">Hitung Luas</string>
+    <string name="judulLuasPersegi">Luas Persegi</string>
+    <string name="txtMasukkanSisiLuasPersegi">Masukkan sisi :</string>
+    <string name="btnLuasPersegi">HITUNG LUAS</string>
+    <string name="hslLuasPersegi">hasil</string>
+
+
+    <string name="kelilingPersegi">Hitung Keliling</string>
+    <string name="judulKelilingPersegi">Keliling Persegi</string>
+    <string name="txtMasukkanSisiKelilingPersegi">Masukkan sisi :</string>
+    <string name="btnKelilingPersegi">HITUNG KELILING</string>
+    <string name="hslKelilingPersegi">hasil</string>
+
+
+    <string name="menuLingkaran">Menghitung Lingkaran</string>
+
+    <string name="luasLingkaran">Hitung Luas</string>
+    <string name="judulLuasLingkaran">Luas Lingkaran</string>
+    <string name="txtMasukkanSisiLuasLingkaran">Masukkan jari-jari :</string>
+    <string name="btnLuasLingkaran">HITUNG LUAS</string>
+    <string name="hslLuasLingkaran">hasil</string>
+
+    <string name="kelilingLingkaran">Hitung Keliling</string>
+    <string name="judulKelilingLingkaran">Keliling Lingkaran</string>
+    <string name="txtMasukkanSisiKelilingLingkaran">Masukkan jari-jari :</string>
+    <string name="btnKelilingLingkaran">HITUNG KELILING</string>
+    <string name="hslKelilingLingkaran">hasil</string>
+
+
+    <string name="menuPersegiPanjang">Menghitung Persegi Panjang</string>
+
+    <string name="luasPersegiPanjang">Hitung Luas</string>
+    <string name="judulLuasPersegiPanjang">Luas Persegi Panjang</string>
+    <string name="txtMasukkanPanjangPersegiPanjang">Masukkan panjang :</string>
+    <string name="txtMasukkanLebarPersegiPanjang">Masukkan lebar :</string>
+    <string name="btnLuasPersegiPanjang">HITUNG LUAS</string>
+    <string name="hslLuasPersegiPanjang">hasil</string>
+
+    <string name="kelilingPersegiPanjang">Hitung Keliling</string>
+    <string name="judulKelilingPersegiPanjang">Keliling Persegi Panjang</string>
+    <string name="txtMasukkanPanjangPersegiPanjang2">Masukkan panjang :</string>
+    <string name="txtMasukkanLebarPersegiPanjang2">Masukkan lebar :</string>
+    <string name="btnKelilingPersegiPanjang">HITUNG KELILING</string>
+    <string name="hslKelilingPersegiPanjang">hasil</string>
+
+    <string name="menuSegitiga">Menghitung Segitiga</string>
+
+    <string name="luasSegitiga">Hiitung Luas</string>
+    <string name="judulLuasSegitiga">Luas Segitiga</string>
+    <string name="txtMasukkanAlas">Alas :</string>
+    <string name="txtMasukkanTinggi">Masukkan tinggi :</string>
+    <string name="btnLuasSegitiga">HITUNG LUAS</string>
+    <string name="hslLuasSegitiga">hasil</string>
+
+    <string name="kelilingSegitiga">Hiitung Keliling</string>
+    <string name="judulKelilingSegitiga">Keliling Segitiga</string>
+    <string name="txtMasukkanAlas2">Alas :</string>
+    <string name="txtMasukkanTinggi2">Masukkan tinggi :</string>
+    <string name="txtMasukkanSisiMiring">Masukkan sisi miring :</string>
+    <string name="btnKelilingSegitiga">HITUNG KELILING</string>
+    <string name="hslKelilingSegitiga">hasil</string>
+
+    <string name="menuTrapesium">Menghitung Trapesium</string>
+
+    <string name="luasTrapesium">Hiitung Luas</string>
+    <string name="judulLuasTrapesium">Luas Trapesium</string>
+    <string name="txtMasukkanAB">Masukkan panjang AB :</string>
+    <string name="txtMasukkanEF">Masukkan panjang EF :</string>
+    <string name="txtMasukkanT">Masukkan panjang t :</string>
+    <string name="btnLuasTrapesium">HITUNG LUAS</string>
+    <string name="hslLuasTrapesium">hasil</string>
+
+    <string name="kelilingTrapesium">Hiitung Keliling</string>
+    <string name="judulKelilingTrapesium">Keliling Trapesium</string>
+    <string name="txtMasukkanAB2">Masukkan panjang AB :</string>
+    <string name="txtMasukkanEF2">Masukkan panjang EF :</string>
+    <string name="txtMasukkanAE">Masukkan panjang AE :</string>
+    <string name="btnKelilingTrapesium">HITUNG KELILING</string>
+    <string name="hslKelilingTrapesium">hasil</string>
 </resources>
