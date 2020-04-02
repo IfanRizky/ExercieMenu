@@ -35,8 +35,11 @@ public class MainActivity extends AppCompatActivity {
 
                 //Menampilkan popup
                 if (user.equals("admin") && (pass.equals("123")))  {
+                    Intent i = new Intent(getApplicationContext(), MenuBangunDatar.class);
                     Toast.makeText(MainActivity.this,
                             "Login Sukses", Toast.LENGTH_LONG).show();
+                    startActivity(i);
+
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "Password Salah", Toast.LENGTH_LONG).show();
