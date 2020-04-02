@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#B8B482</color>
-    <color name="colorPrimaryDark">#17332B</color>
+    <color name="colorPrimary">#FFF7C4</color>
+    <color name="colorPrimaryDark">#1C4237</color>
     <color name="colorAccent">#0C0202</color>
     <color name="BarColor">#E7E2DD</color>
-    <color name="BtnColor">#865407</color>
+    <color name="BtnColor">#FF9A0E</color>
     <color name="Btn2Color">#6B6666</color>
     <color name="TextColor">#464040</color>
 </resources>
